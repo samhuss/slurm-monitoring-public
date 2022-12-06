@@ -1,3 +1,3 @@
-ssh -o StrictHostKeyChecking=no $USER@$HEAD '
+#!/bin/bash
+#ssh -o StrictHostKeyChecking=no $USER@$HEAD ''
 sdiag
-'
